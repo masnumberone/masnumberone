@@ -3,6 +3,7 @@
 - 🔭 I’m currently study in [SUAI](https://guap.ru/)
 - 👨‍💻 I’m currently learning Swift + UIKit
 - ⚡ My tg [@masnumberone](https://t.me/masnumberone)
+- 📚 My [curriculum vitae](https://drive.google.com/file/d/17SvSbKbrivQtCyvGPG4gcP2XlxYStLlq/view?usp=sharing)
 
 ### My iOS apps 📱
 
